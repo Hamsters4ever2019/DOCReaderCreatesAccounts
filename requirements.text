@@ -5,8 +5,4 @@ pdfplumber
 python-docx
 pytesseract
 pillow
-langchain
-langchain-openai
-langchain-anthropic
-langchain-community
-ollama
+requests
